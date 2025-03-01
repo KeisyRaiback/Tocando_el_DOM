@@ -73,11 +73,12 @@ button:hover {
   background-color: #2980b9;
 }
 
-/* footer {
-  position: absolute;
+footer {
+  position: fixed;
   bottom: 0;
+  width: 100%;
   margin-bottom: 0;
-} */
+}
 
 @media (min-width: 720px) {
   footer {
